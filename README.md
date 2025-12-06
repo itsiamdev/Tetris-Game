@@ -29,6 +29,10 @@ Welcome to the classic **Tetris Game**! 🧩 This is a web-based implementation 
 - 🎨 **CSS3**: Styling and animations
 - ⚙️ **Vanilla JavaScript**: Game logic and interactivity
 
+## 🌐 Live Demo
+
+Play the game online: [https://iam269.github.io/Tetris-Game/](https://iam269.github.io/Tetris-Game/)
+
 ## 🚀 Getting Started
 
 Simply open `index.html` in your web browser to start playing! No additional setup required.
