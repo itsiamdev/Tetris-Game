@@ -31,7 +31,7 @@ Welcome to the classic **Tetris Game**! 🧩 This is a web-based implementation 
 
 ## 🌐 Live Demo
 
-Play the game online: [https://iam269.github.io/Tetris-Game/](https://iam269.github.io/Tetris-Game/)
+Play the game online: [https://itsiamdev.github.io/Tetris-Game/](https://itsiamdev.github.io/Tetris-Game/)
 
 ## 🚀 Getting Started
 
